@@ -150,7 +150,7 @@ nav ul li a {
     }
     
     #info a {
-        color:#c09853;
+        color:#2ecc71;
         text-decoration:none;
     }
     
@@ -200,7 +200,7 @@ nav ul li a {
     -o-box-sizing: border-box;
     width:23%;
     margin:1%;
-    display:inline;
+    display:none;
     float:left;
     overflow:hidden;
 }
@@ -225,7 +225,7 @@ nav ul li a {
     }
 
  .portfolio .label-bg {
-    background: #2ecc71;
+    background: #e95a44;
     width: 100%;
     height:100%;
     position: absolute;
